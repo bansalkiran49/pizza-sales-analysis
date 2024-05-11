@@ -1,1 +1,2 @@
 # pizza-sales-analysis
+Welcome to the documentation for our MySQL project on pizza sales data analysis. In this project, we delve into the world of pizza sales to gain insights and understanding of customer preferences, popular toppings, sales trends, and more. By leveraging MySQL, a powerful relational database management system, we have organized and analyzed a comprehensive dataset encompassing various aspects of pizza sales.
